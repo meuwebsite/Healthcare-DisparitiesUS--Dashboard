@@ -1,6 +1,21 @@
 # Dashboard-Healthcare-Disparities-US
 
 
+#### Dashboard
+
+Animated
+![x](assets/images/animated.gif)
+
+
+Tooltip
+![x](assets/images/tooltip.gif)
+
+
+
+Responsive
+![x](assets/images/responsive.gif)
+
+
 # Background
 
  You're tasked with analyzing the current trends shaping people's lives, as well as creating charts, graphs, and interactive elements to help readers understand your findings.
@@ -30,19 +45,19 @@ Hint: Try binding all of the CSV data to your circles. This will let you easily 
 Incorporate d3-tip
 While the ticks on the axes allow us to infer approximate values for each circle, it's impossible to determine the true value without adding another layer of data. Enter tooltips: developers can implement these in their D3 graphics to reveal a specific element's data when the user hovers their cursor over the element. Add tooltips to your circles and display each tooltip with the data that the user has selected. Use the d3-tip.js plugin developed by Justin Palmer—we've already included this plugin in your assignment directory.
 
-# Dashboard
-
-Animated
-![x](assets/images/animated.gif)
-
-
-Tooltip
-![x](assets/images/tooltip.gif)
-
-
-
-Responsive
-![x](assets/images/responsive.gif)
-
 
 # Run Locally
+
+Run this command git clone https://github.com/Piterbrito/Healthcare-DisparitiesUS--Dashboard/
+
+Make sure you have installed in your computer all libraries used above
+
+Double check if you are in the right directory in you terminal ...that often cause errors
+
+Terminal Should be addressed at folder: flask_app
+
+Run the command: python app.py in your terminal
+
+Copy the output link and paste in your Browser
+
+You are now in the dev environment and you can play around
