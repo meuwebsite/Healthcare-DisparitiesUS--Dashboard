@@ -1,18 +1,23 @@
 # Dashboard-Healthcare-Disparities-US
 
+Link: https://piterbrito.github.io/Healthcare-DisparitiesUS--Dashboard/index.html
+
 
 #### Dashboard
 
-Animated
+### Animated
+
 ![x](assets/images/animated.gif)
 
 
-Tooltip
+#### Tooltip
+
 ![x](assets/images/tooltip.gif)
 
 
 
-Responsive
+#### Responsive
+
 ![x](assets/images/responsive.gif)
 
 
